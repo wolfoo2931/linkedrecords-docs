@@ -3,6 +3,3 @@ description: A documentation site for https://github.com/wolfoo2931/linkedrecord
 theme: just-the-docs
 
 url: https://wolfoo2931.github.io/linkedrecords-docs
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
